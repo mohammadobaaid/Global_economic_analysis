@@ -13,9 +13,6 @@ As an Economics student, I am interested in how Purchasing Power Parity (PPP) an
 * **Analysis**: Queried the database to rank cities by a standardized "Meal Price Index" (Column x1).
 * **Insight**: The analysis identified **Turkmenabat** as a significant outlier. This likely reflects hyperinflation or official vs. black-market currency rate discrepancies, rather than standard market pricing.
 
-## 📷 Visualization
-(If you want, you can upload a screenshot of your chart here later)
-
 ## 🚀 How to Run
 1.  Clone the repository.
 2.  Install dependencies: `pip install pandas matplotlib`
